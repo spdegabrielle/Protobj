@@ -2,6 +2,7 @@
 Protobj: Prototype-Delegation Object Model in Scheme by Neil Van Dyke
 
 copied from <http://www.neilvandyke.org/protobj/>
+Code copied from <http://planet.racket-lang.org/display.ss?package=protobj.plt&owner=neil>
 
 ---
 
